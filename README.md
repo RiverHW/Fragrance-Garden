@@ -14,7 +14,7 @@ We may share your personal information with our affiliates, service providers, a
 We will ensure that any such third parties are bound by confidentiality agreements and comply with applicable data protection laws.
 ‌4. User Rights‌
 You have the right to access, rectify, or delete your personal information held by us.
-You may exercise these rights by contacting our customer support team at support@example.com.
+You may exercise these rights by contacting our customer support team at hjjngg7734@gmail.com.
 ‌5. Security Measures‌
 We take reasonable security measures to protect your personal information from unauthorized access, use, or disclosure.
 However, no method of transmission over the internet or electronic storage is completely secure, and we cannot guarantee the absolute security of your information.
@@ -23,4 +23,4 @@ We reserve the right to update this Privacy Policy from time to time.
 Any changes will be effective immediately upon posting on our Application or website.
 By continuing to use our Application after such changes, you agree to be bound by the revised Privacy Policy.
 ‌7. Contact Us‌
-If you have any questions or concerns about this Privacy Policy, please contact us at hwejjngg7734@gmail.com
+If you have any questions or concerns about this Privacy Policy, please contact us at hjjngg7734@gmail.com
