@@ -1,6 +1,6 @@
 Privacy Policy‌
 ‌Effective Date: August 19, 2024‌
-This Privacy Policy outlines how our novel reading application (hereinafter referred to as "the Application") collects, uses, and protects the personal information of its users. By using our Application, you acknowledge and agree to the practices described in this Privacy Policy.
+This Privacy Policy outlines how our novel reading application (hereinafter referred to as "Tomato Novel") collects, uses, and protects the personal information of its users. By using our Application, you acknowledge and agree to the practices described in this Privacy Policy.
 ‌1. Scope of Personal Information Collection‌
 ‌Registration Information‌: When you register for an account with our Application, we collect personal information such as your name, email address, and any other information required for account creation.
 ‌Usage Information‌: During your use of the Application, we automatically collect and record information about your device and usage patterns, including your IP address, browser type, language preference, access dates and times, and hardware and software features.
